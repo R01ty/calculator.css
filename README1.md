@@ -155,3 +155,7 @@ for (item of buttons) {
 }
 ```
 ## OUTPUT:
+![Screenshot 2024-07-05 131912](https://github.com/R01ty/calculator.css/assets/142526219/6d6aaccb-338a-45b1-9e51-573c04b7506f)
+![Screenshot 2024-07-05 135035](https://github.com/R01ty/calculator.css/assets/142526219/808789a0-ac4c-48b3-bfb4-a71b543533ab)
+
+
